@@ -1,10 +1,67 @@
-- 👋 Hi, I’m @Muhammadyusuf0415
-- 👀 I’m interested Developer ...
-- 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on ...Kompaniya
-- 
+<h1 align="center">Hi, I'm Muhammadyusuf 👋</h1>
 
-<!---
-Muhammadyusuf0415/Muhammadyusuf0415 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+Aspiring Data Analyst passionate about turning data into actionable insights.
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 📊 Aspiring **Data Analyst**
+- 📈 Passionate about Data Analytics, Business Intelligence, and Data Visualization
+- 🌱 Currently learning **Power BI, SQL, Python, and Advanced Excel**
+- 🎯 Goal: Build impactful dashboards that help drive better business decisions
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+
+</p>
+
+**Analytics**
+
+- Power BI
+- Excel
+- SQL
+- Python (Pandas, NumPy, Matplotlib)
+- DAX
+- Power Query
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 📊 **Excel Salary Dashboard** | Interactive Excel dashboard analyzing 2,400+ data science job postings. |
+| 📈 **Power BI Dashboards** | Business intelligence dashboards built with Power BI and DAX. |
+| 🐍 **Python Data Analysis** | Data cleaning, EDA, and visualization using Pandas and Matplotlib. |
+| 🗄️ **SQL Portfolio** | SQL queries for business reporting and analytics. |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhammadyusuf0415&show_icons=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadyusuf0415&layout=compact&theme=transparent"/>
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: **(https://www.linkedin.com/in/muhammadyusuf-olimjonov-0889413a6/)**
+- 📧 Email: **(muhammadyusufolimjonov0415@gmail.com)**
+
+---
+
+> *"Without data, you're just another person with an opinion."* — W. Edwards Deming
