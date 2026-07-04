@@ -62,10 +62,6 @@ Aspiring Data Analyst passionate about turning data into actionable insights.
 - 💼 LinkedIn: **(https://www.linkedin.com/in/muhammadyusuf-olimjonov-0889413a6/)**
 - 📧 Email: **(muhammadyusufolimjonov0415@gmail.com)**
 
----
 
-> *"Without data, you're just another person with an opinion."* — W. Edwards Deming
--  LinkedIn: **(https://www.linkedin.com/in/muhammadyusuf-olimjonov-0889413a6/)**
--  Email: **(muhammadyusufolimjonov0415@gmail.com)**
 
 
