@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammadyusuf, an Data Analyst
+# 👋 Hi, I'm Muhammadyusuf, a Data Analyst
 
 ## 🙋‍♂️ About Me
 
