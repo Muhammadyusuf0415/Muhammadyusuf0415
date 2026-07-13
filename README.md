@@ -16,10 +16,12 @@
 **Tools**
 - Power BI
 - Microsoft Excel
+- Google Sheets
 - Power Query
 - Git
 - GitHub
 - VS Code
+  
 
 **Analytics**
 - DAX
