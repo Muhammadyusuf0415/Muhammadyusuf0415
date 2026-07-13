@@ -29,9 +29,3 @@
 - Data Visualization
 - Dashboard Design
 
-## ⭐ Featured Projects
-
-- **Excel Salary Dashboard** — Interactive Excel dashboard analyzing 30,000+ data science job postings.
-- **Power BI Dashboards** — Interactive business dashboards built with Power BI and DAX.
-- **SQL Portfolio** — SQL queries for data exploration and business reporting.
-- **Python Data Analysis** — Data cleaning, analysis, and visualization using Pandas.
